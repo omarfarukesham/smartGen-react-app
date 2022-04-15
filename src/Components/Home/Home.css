@@ -1,0 +1,9 @@
+.carousel--slider{
+    border-radius: 0 0 0 200px;
+    background-color: #3b4a6b;
+}
+.slider--content {
+    position: relative;
+    right: 0;
+   
+}

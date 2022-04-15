@@ -1,0 +1,29 @@
+
+.login--form{
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    padding: 15px;
+    width: 400px;
+    border-radius: 20px;
+}
+.or--left{
+    width: 150px;
+    border: 2px solid #3b4a6b;
+}
+.or--right{
+    width: 150px;
+    border: 2px solid #3b4a6b;
+}
+.google--btn i{
+    padding-right: 5px;
+    color: #3b4a6b;
+    font-size: 12px;
+}
+.icon--lock i{
+    padding: 10px;
+    font-size: 30px;
+    color: #3b4a6b
+}
+
+.icon--lock{
+    color:#3b4a6b;
+}

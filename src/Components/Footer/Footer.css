@@ -1,0 +1,10 @@
+.footer--design{
+    height:200px;
+    background-color: #3b4a6b;
+}
+.social--icon i:hover{
+ color:orange;
+ font-size: 15px;
+cursor: pointer;
+
+}
