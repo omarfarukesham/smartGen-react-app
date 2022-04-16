@@ -49,7 +49,7 @@ const Login = () => {
     } else {
      await createUserWithEmailAndPassword(email, password);
      await updateProfile({ displayName: name });
-         
+  
       navigate("/");
     }
   };
