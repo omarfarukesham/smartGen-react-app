@@ -13,9 +13,11 @@ const Products = () => {
       <div className="row">
         <div >
           <div className="product--container">
+
             {products.map((product) => (
               <SignleProduct key={product.id} product={product}></SignleProduct>
             ))}
+            
           </div>
         </div>
       </div>
